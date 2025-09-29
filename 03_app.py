@@ -11,5 +11,26 @@ name="tamara"
 print(nombre)
 print(telefono)
 print(name)
+#Jugando con variables 
+age=30
 
+print(age)
+print(f"Edad:{age}")
 
+distric="San Luis"
+print(distric)
+print(f"Distrito:{distric}")
+print(f"Nomre de distrito:{distric}")
+
+# Precio del producto
+price = 90
+print(price)
+print(f"El precio de costo es:{price}")
+# Es un cliente activo
+is_active_client=True
+print(is_active_client)
+print(f"¿Esta activo?{is_active_client}")
+
+is_active_client=False
+print(is_active_client)
+print(f"¿Esta activo?{is_active_client}")
