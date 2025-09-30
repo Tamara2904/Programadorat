@@ -7,7 +7,7 @@
 # Ejemplo:
 
 # Listado de frutas       
-frutas=["manzana", "mandarina", "arándanos", "fresas", "maracuyá"]
+países = ["ALEMANIA", "BRASIL", "CANADÁ", "PERÚ"]
 
-for fruta in frutas:
-    print(fruta)
+for pais in países:
+    print(pais)
